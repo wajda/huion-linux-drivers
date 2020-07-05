@@ -1,6 +1,6 @@
 [Desktop Entry]
 #Version=1.0
-Exec=bash -c "cd /home/wajda/huion-linux-drivers; sudo python huion-tablet-driver.py"
+Exec=bash -c "cd /home/wajda/huion-linux-drivers; sudo ./huion-tablet-driver.py"
 Name=HUION Tablet Driver
 Icon=/home/wajda/huion-linux-drivers/huion-logo.png
 Encoding=UTF-8
